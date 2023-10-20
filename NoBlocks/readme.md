@@ -43,3 +43,5 @@ world_testing:
             - narrate "You can't break blocks!"
             - determine cancelled
 ```
+
+Final file without text, (NoBlocks)[NoBlocks.dsc] !!!
