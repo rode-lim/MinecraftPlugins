@@ -12,7 +12,7 @@ Yes! They are completely available for anyone to take no strings attached!
 Tho feel free to share my page it helps me grow and share my plugins to the world!
 
 # Plugins:
-![PluginsGif]()
+![PluginsGif](pluginsmc.gif)
 ## [No block breaking challange!]()
 Have you ever tried to beat MC without being able to break a block with your friends? No?
 
