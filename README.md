@@ -21,4 +21,5 @@ Anyways you can now!
 Recommended use:
 - Servers with custom buildings that u don't want destroyed;
 - Fun challange with your friends? Can you beat the Ender Dragon?
+In case you missed it click [HERE]() to open the code itself.
 (Should I make a no block placing plugin too?)
