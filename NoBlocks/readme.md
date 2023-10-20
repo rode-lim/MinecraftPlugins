@@ -2,7 +2,7 @@
 ![Blocks](Blocks.gif)
 
 ## File:
-Final file without text, [BlockBreakingV1.0](BlockBreaking.dsc) !!!
+Final file: [BlockBreakingV1.0](BlockBreaking.dsc)
 
 ## Usage:
 
