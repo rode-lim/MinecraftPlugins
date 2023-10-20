@@ -1,6 +1,9 @@
 # Minecraft but you can't break blocks!
 ![Blocks](Blocks.gif)
 
+## File:
+Final file without text, [BlockBreakingV1.0](BlockBreaking.dsc) !!!
+
 ## Usage:
 
 - Use it on servers you don't want to give permissions to break blocks in any gamemode;
@@ -43,5 +46,3 @@ world_testing:
             - narrate "You can't break blocks!"
             - determine cancelled
 ```
-
-Final file without text, [BlockBreaking](BlockBreaking.dsc) !!!
