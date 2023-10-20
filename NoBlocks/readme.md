@@ -32,3 +32,14 @@ world_testing:
             - determine cancelled
 ```
 Cancelled - Prevents you from breaking the block.
+
+If you wish to tell people that they can't break blocks you can add:
+
+```
+world_testing:
+    type: world
+    events:
+        on player breaks block:
+            - narrate "You can't break blocks!"
+            - determine cancelled
+```
