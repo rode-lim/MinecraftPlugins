@@ -13,7 +13,7 @@ Tho feel free to share my page it helps me grow and share my plugins to the worl
 
 # Plugins:
 ![PluginsGif](pluginsmc.gif)
-## [No block breaking challange!]()
+## [No block breaking challange!](https://github.com/rode-lim/MinecraftPlugins/tree/main/NoBlocks)
 Have you ever tried to beat MC without being able to break a block with your friends? No?
 
 Anyways you can now!
