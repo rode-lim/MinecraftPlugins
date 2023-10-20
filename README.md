@@ -4,7 +4,7 @@ This tab in my profile is made to talk about my Minecraft Plugins.
 ## Language used:
 - As preference I decided to use denizen;
 - So don't forget, create a server to apply ur plugins!
-- I really recommend following the ![Denizen Biginner's Guide](https://guide.denizenscript.com/) to learn more about coding your own plugins.
+- I really recommend following the [Denizen Biginner's Guide](https://guide.denizenscript.com/) to learn more about coding your own plugins.
 
 ### Can I use your plugins?
 
@@ -13,7 +13,7 @@ Tho feel free to share my page it helps me grow and share my plugins to the worl
 
 # Plugins:
 
-## ![No block breaking challange!]()
+## [No block breaking challange!]()
 Have you ever tried to beat MC without being able to break a block with your friends? No?
 
 Anyways you can now!
