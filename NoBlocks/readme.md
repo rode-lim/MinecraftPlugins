@@ -1,5 +1,5 @@
 # Minecraft but you can't break blocks!
-![Blocks](Blocks.gif)
+![Blocks](blocks.gif)
 
 ## File:
 ### Final file: [BlockBreakingV1.0](BlockBreaking.dsc)
