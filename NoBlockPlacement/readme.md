@@ -2,6 +2,7 @@
 ![]()
 
 ## File: [RemoveBlockPlacing Beta](noblockplacement.dsc)
+## Guide to download my plugins: [DownloadingPlugins]()
 
 ## Usage:
 
