@@ -21,7 +21,7 @@ Anyways you can now!
 Recommended use:
 - Servers with custom buildings that u don't want destroyed;
 - Fun challange with your friends? Can you beat the Ender Dragon?
-In case you missed it click [HERE]() to open the code itself.
+In case you missed it click [HERE](https://github.com/rode-lim/MinecraftPlugins/tree/main/NoBlocks) to open the code itself.
 
 ## [No block placing challange!](https://github.com/rode-lim/MinecraftPlugins/tree/main/NoBlockPlacement)
 Have you ever tried to beat MC without being able to place a block with your friends? No?
@@ -31,4 +31,4 @@ Anyways you can now!
 Recommended use:
 - Servers with custom buildings that u don't want destroyed;
 - Fun challange with your friends? Can you beat the Ender Dragon?
-In case you missed it click [HERE]() to open the code itself.
+In case you missed it click [HERE](https://github.com/rode-lim/MinecraftPlugins/tree/main/NoBlockPlacement) to open the code itself.
