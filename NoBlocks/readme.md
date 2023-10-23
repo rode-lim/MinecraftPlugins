@@ -2,7 +2,7 @@
 ![Blocks](blocks.gif)
 
 ## File: [BlockBreakingV1.0](BlockBreaking.dsc)
-## Guid to download my plugins: [DownloadingPlugins]()
+## Guide to download my plugins: [DownloadingPlugins]()
 
 ## Usage:
 
